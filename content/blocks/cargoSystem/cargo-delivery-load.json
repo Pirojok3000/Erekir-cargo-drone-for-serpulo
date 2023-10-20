@@ -12,8 +12,8 @@
     "separateItemCapacity": true,
     "requirements": 
     [
-		"titanium/200",
 		"lead/200",
+		"titanium/200",
 		"silicon/160",
                 "plastanium/50"
 	],
