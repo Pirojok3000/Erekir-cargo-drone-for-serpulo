@@ -1,0 +1,9 @@
+{
+  "name": "Serpulo-payload-drone-alternative",
+  "displayName": "Serpulo cargo drone",
+  "author": "Pirojok3000",
+  "description": "Adds serpulo cargo drone that functions exactly like erekir cargo drone. No more complicated logic!",
+  "version": 1.0,
+  "minGameVersion": "144",
+  "hidden": false, 
+}
