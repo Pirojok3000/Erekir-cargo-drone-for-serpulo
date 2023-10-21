@@ -24,7 +24,7 @@
     "buildTime": 200,
 
     research: {
-  parent: mass-driver
+  parent: serpulo-payload-drone-alternative-cargo-delivery-load
   requirements: [
     titanium/100
     silicon/100
