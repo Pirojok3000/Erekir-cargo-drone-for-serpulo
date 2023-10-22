@@ -7,7 +7,7 @@
     "health": 200,
 
     "unitType": "genm",
-    "itemCapacity": 150,
+    "itemCapacity": 100,
     "liquidCapacity": 20,
     "separateItemCapacity": true,
     "requirements": 
