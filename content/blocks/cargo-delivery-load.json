@@ -4,7 +4,7 @@
     "description": "Constructs cargo drones. Drones automatically distribute items to Unloading Points with a matching filter",
 
     "size": 3,
-    "health": 700,
+    "health": 200,
 
     "unitType": "genm",
     "itemCapacity": 150,
