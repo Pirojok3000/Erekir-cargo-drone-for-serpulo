@@ -16,6 +16,7 @@
 		"titanium/200",
 		"silicon/160",
                 "plastanium/50"
+	        "surge-alloy/50"
 	],
     "category": "distribution",
 
@@ -35,6 +36,7 @@
     lead/700
     silicon/300
     plastanium/600
+    surge-alloy/300
   ]
 }
 }
