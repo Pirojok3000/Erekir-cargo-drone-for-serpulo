@@ -4,7 +4,7 @@
     "description": "Acts as unloading point for cargo drones. Accepts items that match the selected filter.",
 
     "size": 2,
-    "health": 400,
+    "health": 150,
 
     "itemCapacity": 100,
     "liquidCapacity": 0,
