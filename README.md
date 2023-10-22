@@ -4,6 +4,7 @@ Mod adds serpulo variant of cargo drone block to transfer items.
 --v1.3--
 
 Nerfed loading and unloading points health
+Loading point cost increased
 
 --v1.2--
 
