@@ -11,8 +11,7 @@
     "separateItemCapacity": true,
     "requirements": 
     [
-		"titanium/80",
-		"lead/120",
+		"titanium/100",
 		"silicon/50"
 	],
     "category": "distribution",
