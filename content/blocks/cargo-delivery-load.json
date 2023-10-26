@@ -15,7 +15,6 @@
 		"lead/200",
 		"titanium/200",
 		"silicon/160",
-                "plastanium/50"
 	        "surge-alloy/50"
 	],
     "category": "distribution",
@@ -35,7 +34,7 @@
   requirements: [
     lead/700
     silicon/300
-    plastanium/600
+    titanium/600
     surge-alloy/300
   ]
 }
