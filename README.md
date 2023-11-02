@@ -1,6 +1,10 @@
 # Serpulo-drone
 Mod adds serpulo variant of cargo drone block to transfer items.
 # Changelog
+--v1.4--
+
+Добавлен русский язык
+
 --v1.3--
 
 Nerfed loading and unloading points health, loading point cost increased
