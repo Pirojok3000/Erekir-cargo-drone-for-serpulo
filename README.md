@@ -1,6 +1,10 @@
 # Serpulo-drone
 Mod adds serpulo variant of cargo drone block to transfer items.
 # Changelog
+--v1.5--
+
+Small tweak, drone no longer needs water
+
 --v1.4--
 
 Добавлен русский язык
