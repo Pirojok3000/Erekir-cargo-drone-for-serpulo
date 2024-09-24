@@ -8,7 +8,6 @@
 
     "unitType": "genm",
     "itemCapacity": 100,
-    "liquidCapacity": 20,
     "separateItemCapacity": true,
     "requirements": 
     [
@@ -23,7 +22,7 @@
 
     "hasItems": true,
     "hasPower": true,
-    "hasLiquids": true,
+    "hasLiquids": flase,
     "consumes":
     {
         "power": 2,
